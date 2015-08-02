@@ -1,4 +1,3 @@
-# korben-cookbook
+# korben cookbook
 
-TODO: Enter the cookbook description here.
-
+My cookbook to manage my home machine

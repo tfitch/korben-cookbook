@@ -1,0 +1,7 @@
+name 'korben-cookbook'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures korben-cookbook'
+long_description 'Installs/Configures korben-cookbook'
+version '0.1.0'

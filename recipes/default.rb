@@ -7,3 +7,5 @@
 include_recipe 'makemkv'
 
 include_recipe 'plexapp'
+
+include_recipe 'tmux'

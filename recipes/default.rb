@@ -15,3 +15,8 @@ end
 include_recipe 'plexapp'
 
 include_recipe 'tmux'
+
+# inception style, give the box the Chef DK
+include_recipe 'virtualbox'
+include_recipe 'vagrant'
+include_recipe 'chef-dk'

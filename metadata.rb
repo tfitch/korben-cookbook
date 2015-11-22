@@ -4,8 +4,12 @@ maintainer_email 'chef@tylerfitch.com'
 license 'MIT'
 description 'Wrapper cookbook that configures Korben'
 long_description 'Wrapper cookbook that configures Korben'
-version '0.3.1'
+version '0.4.0'
 
 depends 'makemkv'
 depends 'plexapp'
 depends 'tmux'
+
+depends 'virtualbox'
+depends 'vagrant'
+depends 'chef-dk'
